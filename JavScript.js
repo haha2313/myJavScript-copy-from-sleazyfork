@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name            JavScript
 // @namespace       JavScript@blc
-// @version         4.5.7
+// @version         4.5.7x
 // @author          blc
 // @description     一站式体验，JavBus & JavDB 兼容
 
