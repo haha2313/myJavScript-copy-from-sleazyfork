@@ -4,7 +4,15 @@
 // @version         4.5.7
 // @author          blc
 // @description     一站式体验，JavBus & JavDB 兼容
-// @include         *
+
+// @include      *javbus.com/*
+// @include      *javdb.com/*
+// @include      *avmoo.cyou/*
+// @include      *javlibrary.com/*
+// @include      /^.*(javbus|busjav|busfan|fanbus|buscdn|cdnbus|dmmsee|seedmm|busdmm|dmmbus|javsee|seejav)\..*$/
+// @include      /^.*(javdb)[0-9]*\..*$/
+// @include      /^.*(avmoo)\..*$/
+
 // @icon            https://s1.ax1x.com/2022/04/01/q5lzYn.png
 // @resource        success https://s1.ax1x.com/2022/04/01/q5l2LD.png
 // @resource        info https://s1.ax1x.com/2022/04/01/q5lyz6.png
